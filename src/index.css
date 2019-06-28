@@ -1,0 +1,19 @@
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.blog {
+  background: rgb(236, 235, 235);
+  padding-top: 10px;
+  padding-left: 2px;
+  border: solid;
+  border-width: 1;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
